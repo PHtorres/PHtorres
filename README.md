@@ -1,4 +1,4 @@
-### Fala, Dev!!! 👋
+### Fala, Turma!!! 👋
 
 - 🔭 I’m currently working on RGBsys KOperador mobile App;
 - 🌱 I’m currently learning Express in Node Backend;
