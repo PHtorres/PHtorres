@@ -1,6 +1,6 @@
 ### Fala, Turma!!! 👋
 
-- 🔭 I’m currently working on BennuTV Mobile Apps;
+- 🔭 I’m currently working on <a href="https://www.bennu.com.br/"> BennuTV</a> Mobile Apps;
 - 🌱 I’m currently learning .NET 6 and;
 - 👯 I’m looking to collaborate on React or React Native products;
 - 💬 Ask me about React Native, React, .NET, C# and TypeScript;
