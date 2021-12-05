@@ -1,9 +1,9 @@
 ### Fala, Turma!!! 👋
 
-- 🔭 I’m currently working on RGBsys Meus Recebíveis React App;
-- 🌱 I’m currently learning .NET 5;
+- 🔭 I’m currently working on BennuTV Mobile Apps;
+- 🌱 I’m currently learning .NET 6 and;
 - 👯 I’m looking to collaborate on React or React Native products;
-- 💬 Ask me about React Native, React, .Net Core, Express, C# and TypeScript;
+- 💬 Ask me about React Native, React, .NET, C# and TypeScript;
 
 #### Skills:
 <div style="display: inline_block">
