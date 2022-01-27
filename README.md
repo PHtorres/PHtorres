@@ -1,4 +1,4 @@
-### Fala, Turma!!! 👋
+### Hey, Folks!!! 👋
 
 - 🔭 I’m currently working on <a href="https://www.bennu.com.br/" target="_blank"> BennuTV</a> Mobile Apps;
 - 🌱 I’m currently learning .NET 6 and React Native Animations;
