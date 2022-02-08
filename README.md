@@ -1,7 +1,7 @@
 ### Hey, Folks!!! 👋
 
 - 🔭 I’m currently working on <a href="https://www.bennu.com.br/" target="_blank"> BennuTV</a> Mobile Apps;
-- 🌱 I’m currently learning .NET 6 and React Native Animations;
+- 🌱 I’m currently learning .NET 6 and React Native Animations with Moti Lib;
 - 👯 I’m looking to collaborate on React or React Native products;
 - 💬 Ask me about React Native, React, .NET, C# and TypeScript;
 
@@ -15,7 +15,7 @@
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
 
-#### Me siga nas minhas redes sociais:
+#### Fallow me:
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/phtorres)](https://github.com/phtorres)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/paulo-henrique-torres-a4474a196/)](https://www.linkedin.com/in/paulo-henrique-torres-a4474a196/)
