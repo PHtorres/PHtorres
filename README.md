@@ -1,29 +1,58 @@
-### Hey, Folks!!! 👋
+Hi 👋 My name is Paulo Henrique Torres
+==========================
 
-- 🔭 I’m currently working on <a href="https://www.bennu.com.br/" target="_blank"> BennuTV</a> Mobile Apps;
-- 🌱 I’m currently learning .NET 6 and React Native Animations with Moti Lib;
-- 👯 I’m looking to collaborate on React or React Native products;
-- 💬 Ask me about React Native, React, .NET, C# and TypeScript;
+Front-end Software Engineer
+-----------------------------
 
-#### Skills:
-<div style="display: inline_block">
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-</div>
+I have 6 years of experience with software development and I believe that with software we can positively impact everyone's lives.
 
-#### Fallow me:
+I am also a student at [Rocketseat](https://www.rocketseat.com.br/), the most popular software school in Brazil.
 
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/phtorres)](https://github.com/phtorres)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/paulo-henrique-torres-a4474a196/)](https://www.linkedin.com/in/paulo-henrique-torres-a4474a196/)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat-square&labelColor=C13584&logo=instagram&logoColor=white&link=https://www.instagram.com/phtorres32/)](https://www.instagram.com/phtorres32/)
-[![Facebook Badge](https://img.shields.io/badge/-Facebook-blue?style=flat-square&labelColor=blue&logo=facebook&logoColor=white&link=https://www.facebook.com/paulohenrique.torres)](https://www.facebook.com/paulohenrique.torres)
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-blue?style=flat-square&labelColor=blue&logo=twitter&logoColor=white&link=https://twitter.com/PhTorres32)](https://twitter.com/PhTorres32)
+* 🌍  I'm based in Rio de Janeiro, Brazil
+* ✉️  You can contact me at [paulohenriquetorresdev@gmail.com](mailto:paulohenriquetorresdev@gmail.com)
+* 🚀  I'm currently working on [Codelitt](https://www.codelitt.com/)
+* 🧠  I'm learning Advanced Typescript and .NET 6.
+* 🤝  I'm open to collaborating on projects that have a high impact in peoples lives
 
+<a href="https://www.github.com/phtorres" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/phtorres?logo=github&style=for-the-badge&color=3382ed&labelColor=171717" /></a>
 
-[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/phtorres?cardType=github&theme=github-dark)](https://git.io/awesome-stats-card)
+### Skills
 
+<p align="left">
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="Javascript" /></a>
+    <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="Typescript" /></a>
+    <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
+    <a href="https://dotnet.microsoft.com/en-us/" target="_blank" rel="noreferrer"><img src="https://github.com/hussainweb/hussainweb/blob/main/icons/dotnet.png" width="36" height="36" alt="dotnet" /></a>
+    </p>
 
+### Socials
+
+<p align="left">
+    <a href="https://www.github.com/phtorres" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg"
+            width="32" height="32" />
+    </a>
+
+    <a href="http://www.instagram.com/phtorres32" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg"
+            width="32" height="32" />
+    </a>
+
+    <a href="https://www.linkedin.com/in/paulo-henrique-torres-a4474a196/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg"
+            width="32" height="32" />
+    </a>
+</p>
+
+### Badges
+
+<b>My GitHub Stats</b>
+
+<a href="http://www.github.com/phtorres"><img src="https://github-readme-stats.vercel.app/api?username=phtorres&show_icons=true&hide=&count_private=true&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=171717&hide_border=true&show_icons=true" alt="phtorres's GitHub stats" /></a>
+
+<a href="http://www.github.com/phtorres"><img src="https://github-readme-streak-stats.herokuapp.com/?user=phtorres&stroke=ffffff&background=171717&ring=3382ed&fire=3382ed&currStreakNum=ffffff&currStreakLabel=3382ed&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+
+<a href="http://www.github.com/phtorres"><img src="https://activity-graph.herokuapp.com/graph?username=phtorres&bg_color=171717&color=ffffff&line=3382ed&point=ffffff&area_color=171717&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+
+<a href="https://github.com/phtorres" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=phtorres&layout=compact&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=171717&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
