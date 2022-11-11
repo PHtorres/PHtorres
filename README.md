@@ -4,7 +4,7 @@ Hi 👋 My name is Paulo Henrique Torres
 Front-end Software Engineer
 -----------------------------
 
-I have 6 years of experience with software development and I believe that with software we can positively impact everyone's lives.
+I have 6 years of experience in software development and I believe that with software we can positively impact everyone's lives.
 
 I am also a student at [Rocketseat](https://www.rocketseat.com.br/), the most popular software school in Brazil, and [Desenvolvedor.io](https://desenvolvedor.io/), a .NET reference school in Brazil.
 
