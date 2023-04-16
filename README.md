@@ -1,7 +1,7 @@
 Hi 👋 My name is Paulo Henrique Torres
 ==========================
 
-Front-end Software Engineer
+Full-stack Software Engineer
 -----------------------------
 
 I have 7 years of experience in software development and I believe that with software we can positively impact everyone's lives.
