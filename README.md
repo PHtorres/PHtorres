@@ -1,7 +1,7 @@
 Hi 👋 My name is Paulo Henrique Torres
 ==========================
 
-Full-stack Software Engineer
+Android and IOS Software Engineer
 -----------------------------
 
 I have 7 years of experience in software development and I believe that with software we can positively impact everyone's lives.
@@ -11,7 +11,7 @@ I am also a student at [Rocketseat](https://www.rocketseat.com.br/), the most po
 * 🌍  I'm based in Rio de Janeiro, Brazil
 * ✉️  You can contact me at [paulohenriquetorresdev@gmail.com](mailto:paulohenriquetorresdev@gmail.com)
 * 🚀  I'm currently working on [Kickserv](https://www.kickserv.com/)
-* 🧠  I'm learning IOS & Swift.
+* 🧠  I'm learning Swift.
 * 🤝  I'm open to collaborating on projects that have a high impact in peoples lives using React, React Native or .NET platforms.
 
 <a href="https://www.github.com/phtorres" target="_blank" rel="noreferrer"><img
